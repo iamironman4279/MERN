@@ -32,7 +32,7 @@ This project is a submission for the MERN Machine Test as part of the selection 
    ```bash
    http://localhost:5000
 ### Steps to Run Locally
-2. Fro BackendEnd :
+3. Fro BackendEnd :
    ```bash
    http://localhost:5000
   
